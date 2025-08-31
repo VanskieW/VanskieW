@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VanskieW aka Evans
-- 👀 I’m interested in coding, eating and working out.
-- 🌱 I’m currently learning Django, Web3 
-- 💞️ I’m looking to collaborate on Web3 and Django projects
+- 👀 I’m a huge data nerd.
+- 🌱 Currently working on data engineering and analytics engineering projects.
 - 📫 How to reach me via evanswandz@gmail.com
 
 <!---
